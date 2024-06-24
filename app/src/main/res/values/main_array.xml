@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+        <item>Политическая сфера</item>
+        <item>Политические идеи</item>
+        <item>Политические режимы</item>
+    </string-array>
+
+    <string-array name="politic_sph">
+        <item>Политическая сфера|politic_sph.jpg|politic_sph.html</item>
+    </string-array>
+
+    <string-array name="polit_idea">
+        <item>Фашизм|fasc.jpg|fasc.html</item>
+        <item>Консерватизм|cons.jpg|cons.html</item>
+        <item>Либерализм|liber.jpg|liber.html</item>
+        <item>Социализм|social.jpg|social.html</item>
+        <item>Коммунизм|comm.jpg|comm.html</item>
+    </string-array>
+
+
+    <string-array name="polit_reg">
+        <item>Демократия|democracy.jpg|democracy.html</item>
+        <item>Гибридные режимы|hybrid.jpg|hybrid.html</item>
+        <item>Авторитаризм|authoritarian.jpg|authoritarian.html</item>
+        <item>Тоталитаризм|totalitarian.jpg|totalitarian.html</item>
+    </string-array>
+
+
+</resources>
+
+<!--
+<item>Консерватизм</item>
+        <item>Либерализм</item>
+        <item>Социализм</item>
+        <item>Коммунизм</item>
+
+
+
+
+
+<string-array name="conservatism">
+        <item>Консерватизм|konserv.jpg|fasc.html</item>
+    </string-array>
+    <string-array name="liberalism">
+        <item>Либерализм|liber.jpg|fasc.html</item>
+    </string-array>
+    <string-array name="socialism">
+        <item>Социализм|social.jpg|fasc.html</item>
+    </string-array>
+    <string-array name="communism">
+        <item>Коммунизм|kom.jpg|fasc.html</item>
+    </string-array>
+
+    -->
+
+
